@@ -1,7 +1,7 @@
 ```
 fun main() {
     val aboutMe = AboutMe()
-    println(aboutMe.toString())
+    println(aboutMe)
 }
 
 class AboutMe {
