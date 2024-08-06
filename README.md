@@ -15,7 +15,7 @@
 <br>
 
 - A passionate Android Developer with over 3.2+ years of experience.
-- Currently working at PurpleFront Technologies Pvt Ltd.
+- Currently working at Highonswift Technologies Pvt Ltd.
 - A quick learner and problem solver, delivering high-quality projects.
 - Always eager to explore new technologies and contribute to innovative projects.
 - Open to new job opportunities and collaborations. [My Resume](https://example.com)
@@ -162,9 +162,3 @@
 ---
 
 <br>
-
-Credit: [Satish Vajiram](https://github.com/satishema)
-
-Last Edited on: [Date]
-
----
