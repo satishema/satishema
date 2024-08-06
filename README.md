@@ -1,3 +1,4 @@
+---
 
 <h1 align="center"><b>Hi, I'm Satish Vajiram</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -14,10 +15,10 @@
 <br>
 
 - A passionate Android Developer with over 3.2+ years of experience.
-- Currently working at Highonswift Technologies Pvt Ltd.
+- Currently working at PurpleFront Technologies Pvt Ltd.
 - A quick learner and problem solver, delivering high-quality projects.
 - Always eager to explore new technologies and contribute to innovative projects.
-- Open to new job opportunities and collaborations. [My Resume](https://highonswift.com/team/satish)
+- Open to new job opportunities and collaborations. [My Resume](https://example.com)
 
 <br><br>
 
@@ -134,3 +135,36 @@
 <li>
 <a href="mailto:vajiramsatish@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  vajiramsatish@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom
+
+: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>Thank you for visiting my profile! Have a great day! ✨</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
+Credit: [Satish Vajiram](https://github.com/satishema)
+
+Last Edited on: [Date]
+
+---
