@@ -17,7 +17,7 @@
 - Currently working at Highonswift Technologies Pvt Ltd.
 - A quick learner and problem solver, delivering high-quality projects.
 - Always eager to explore new technologies and contribute to innovative projects.
-- Open to new job opportunities and collaborations. [My Resume](https://example.com)
+- Open to new job opportunities and collaborations. [My Resume](https://highonswift.com/teams/satish)
 
 <br><br>
 
